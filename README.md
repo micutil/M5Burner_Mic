@@ -9,7 +9,7 @@ M5Stack is an application that can basically do the same as M5Burner ([https://m
 
 ## Download
 
-Download [here](http://micutil.com/download/M5Burner_Mic.zip), both Mac and Win versions are included.
+Download [here](https://github.com/micutil/M5Burner_Mic/releases/download/1.0.2/M5Burner_Mic.zip), both Mac and Win versions are included.
 
 ### Feature
 
