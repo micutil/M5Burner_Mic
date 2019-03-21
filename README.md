@@ -38,10 +38,12 @@ Basically the same as M5Burner.
 ![MacDown logo](images/preview.png)
 
 
+
 ##Licence
 
 The M5Burner_Mic app itself is
  CC BY Miono (https://github.com/micutil/M5Burner_Mic)
+
 
 ##Special thanks
 
