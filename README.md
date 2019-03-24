@@ -40,8 +40,9 @@ Basically the same as M5Burner.
 
 ## Licence
 
-The M5Burner_Mic app itself is
- CC BY Miono (https://github.com/micutil/M5Burner_Mic)
+The M5Burner_Mic app itself is [Creative Commons](https://creativecommons.org/licenses/)
+
+ CC BY Miono (https://github.com/micutil/M5Burner_Mic).
  
  You may distribute M5Burner_Mic as an installer for your program in your archive.
 
