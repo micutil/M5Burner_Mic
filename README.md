@@ -5,7 +5,7 @@
 M5Burner by Micono
 (Mac and Windows version)
 
-M5Stack is an application that can basically do the same as M5Burner ([https://m5stack.com/download](https://m5stack.com/download)) that transfers the official farm or program to M5Stack. You can load and transfer farms and programs in the firmwares folder at the same level as the M5Burner_Mic application.
+M5Stack is an application that can basically do the same as M5Burner ([https://m5stack.com/download](https://m5stack.com/download)) that transfers the official firms or program to M5Stack. You can load and transfer firms and programs in the firmwares folder at the same level as the M5Burner_Mic application.
 
 ## Download
 
