@@ -10,6 +10,7 @@ M5Stack is an application that can basically do the same as M5Burner ([https://m
 ## Download
 
 Download [here](http://micutil.com/download/M5Burner_Mic.zip), both Mac and Win versions are included.
+This download archive includes the SD-Menu ([tobozo/SD-Updater](https://github.com/tobozo/M5Stack-SD-Updater)) as a bin file that can be installed with M5Burner_Mic.
 
 ### Feature
 
