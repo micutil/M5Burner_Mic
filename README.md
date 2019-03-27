@@ -52,7 +52,7 @@ Basically the same as M5Burner.<br>(JP: 基本的にM5Burnerと同じです)
 
 <img src="images/connect.png" width="240">
 
-- If it weree connected, the background color of the bottom field change to pink.
+- If it were connected, the background color of the bottom field change to pink.
 - If you want to disconnect it, Push "Dissconnect" button, it is as same as "Connect" button.
 
 <img src="images/montor.png" width="240">
