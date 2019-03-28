@@ -9,6 +9,14 @@ M5Stack is an application that can basically do the same as M5Burner ([https://m
 (JP: M5Burner_Micは、M5Stackにファームやプログラムを転送するプログラムで、M5Burner（[https://m5stack.com/download](https://m5stack.com/download))と基本的に同じアプリケーションです。 M5Burner_Micアプリケーションと同じ階層にあるfirmwaresフォルダの中に設定ファイルが入っていればプログラムをロードして転送することができます。)
 
 ## Update
+v1.2.0
+
+- Modified preset menu to be divided into each json file.
+- You can use any json file or the folder containing json files by dropping it on the window or the icon of M5Burner_Mic.<br>(JP: どこにあるjsonファイルやそれらが入ったフォルダでも、ドラッグ＆ドロップすればプリセットに追加されます）
+- When you drop a **bin file** into the window or the icon of M5Burner_Mic then, the configuration file for installation **be built into the firmwares folder** and added to the preset menu, so you click the start button You can just install it.<br>(JP: ビルドしたbinファイルをドラッグ＆ドロップすれば、設定ファイルがfirmwaresフォルダに構築されます）
+
+v1.1.0
+
 - Added simple serial monitor function.
 - Bundled some M5Stack related official firmwares.
 - Bundled SetWiFi_Mic
@@ -52,7 +60,7 @@ Basically the same as M5Burner.<br>(JP: 基本的にM5Burnerと同じです)
 
 <img src="images/connect.png" width="240">
 
-- If it were connected, the background color of the bottom field change to pink.
+- If it weree connected, the background color of the bottom field change to pink.
 - If you want to disconnect it, Push "Dissconnect" button, it is as same as "Connect" button.
 
 <img src="images/montor.png" width="240">
