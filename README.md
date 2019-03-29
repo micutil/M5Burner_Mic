@@ -1,5 +1,5 @@
 # M5Burner_Mic
-
+### Download [here](http://micutil.com/download/M5Burner_Mic.zip), both Mac and Win versions are included.<br>
 ![M5Burner_Mic Icon](images/m5burnermic128.png)
 
 M5Burner by Micono<br>
@@ -21,11 +21,7 @@ v1.1.0
 - Bundled some M5Stack related official firmwares.
 - Bundled SetWiFi_Mic
 
-## Download
-
-### Download [here](http://micutil.com/download/M5Burner_Mic.zip), both Mac and Win versions are included.<br>
-
-**Bundled firmwares and programs:**
+## Bundled firmwares and programs:
 
 - M5Stack related official firmwares (M5Bala, M5Cam, M5Cloud, M5Fire, M5Flow, M5GO, M5Unit, FACES_Kit)
 - SD-Menu ([tobozo/M5Stack-SD-Updater](https://github.com/tobozo/M5Stack-SD-Updater))
@@ -33,12 +29,14 @@ v1.1.0
 - Others: my sample program.
 
 
-### Feature
+## Feature
 
 - The Windows version of M5Burner has firmware in the external firmwares folder, but the Mac version is in the package, so it is troublesome to make it compatible with M5Burner with a self-made application, but M5Burner_Mic is firmwares Because you use firmware in the folder, you do not need to prepare two firmwares for Mac and Win.<br>(JP: M5BurnerのWindows版は、外部のfirmwaresとうフォルダの中にfirmwareが入っていますが、Mac版はパッケージの中に入っているので自作アプリでM5Burner対応にさせるのに面倒であるが、M5Burner_Micは、firmwaresフォルダの中のfirmwareを使うので、firmwaresをマック用とWin用と２つ用意する必要はありません)
 - In the Mac version of M5Burner, you can not select a port, but M5Burner_Mic can be selected.<br>(JP: M5BurnerのMac版では、ポートが選べないが、M5Burner_Micは選べます)
 - M5Burner may not work well if there is a space in the path or it is a double-byte character, but M5Burner_Mic may work.<br>(JP: M5Burnerはパスにスペースが入ってたり、２バイト文字だったりすると、もしかするとうまく動かないかもしれないけど、M5Burner_Micはもしかすると動くかもしれません)
 - M5Burner_Mic reads files with extension .json in the firmwares folder, so you can prepare json files individually.<br>(JP: M5Burner_Micは、firmwaresフォルダの中に入っている拡張子が.jsonというファイルを読み込みますので、jsonファイルを個別に用意することもできます)
+- You can use any json file or the folder containing json files by dropping it on the window or the icon of M5Burner_Mic.<br>(JP: どこにあるjsonファイルやそれらが入ったフォルダでも、ドラッグ＆ドロップすればプリセットに追加されます）
+- When you drop a **bin file** into the window or the icon of M5Burner_Mic then, the configuration file for installation **be built into the firmwares folder** and added to the preset menu, so you click the start button You can just install it.<br>(JP: ビルドしたbinファイルをドラッグ＆ドロップすれば、設定ファイルがfirmwaresフォルダに構築されます）
 
 ![Firmwares folder](images/firmwaresfolder.png)
 
