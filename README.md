@@ -21,11 +21,13 @@ v1.1.0
 - Bundled some M5Stack related official firmwares.
 - Bundled SetWiFi_Mic
 
-## Bundled firmwares and programs:
+## Bundled firmwares and programs (update 2019/5/17)
 
 - M5Stack related official firmwares (M5Bala, M5Cam, M5Cloud, M5Fire, M5Flow, M5GO, M5Unit, FACES_Kit)
-- SD-Menu ([tobozo/M5Stack-SD-Updater](https://github.com/tobozo/M5Stack-SD-Updater))
-- SetWiFi_Mic ([micutil/SetWiFi_Mic](https://github.com/micutil/M5Burner_Mic))
+- SD-Menu (M5Stack) ([tobozo/M5Stack-SD-Updater](https://github.com/tobozo/M5Stack-SD-Updater))
+- SD-Menu (**Odroid-GO**):2019/5/17 ([tobozo/M5Stack-SD-Updater](https://github.com/tobozo/M5Stack-SD-Updater))
+- SetWiFi_Mic (M5Stack):2019/5/17 ([micutil/SetWiFi_Mic](https://github.com/micutil/M5Burner_Mic))
+- SetWiFi_Mic (**Odroid-GO**):2019/5/17 ([micutil/SetWiFi_Mic](https://github.com/micutil/M5Burner_Mic))
 - Others: my sample program.
 
 
