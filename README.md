@@ -1,6 +1,6 @@
 # M5Burner_Mic
 [日本語README](READMEjp.md)
-### Download [here](http://micutil.com/download/M5Burner_Mic.zip), both Mac and Win versions are included.<br>
+### Download [here (2019/9/13)](http://micutil.com/download/M5Burner_Mic.zip), both Mac and Win versions are included.<br>
 ![M5Burner_Mic Icon](images/m5burnermic128.png)
 
 M5Burner by Micono<br>
@@ -10,7 +10,8 @@ M5Stack is an application that can basically do the same as M5Burner ([https://m
 
 ## Update
 v1.3.0
-- Some firms added. (UIFlow 1.3.2, Odroid-GO firmware....)
+
+- Bundled several firmwares. (Odroid-GO firmware, UIFlow 1.3.2...)
 
 v1.2.0
 
@@ -24,10 +25,13 @@ v1.1.0
 - Bundled some M5Stack related official firmwares.
 - Bundled SetWiFi_Mic
 
-## Bundled firmwares and programs (update 2019/9/13)
+## Bundled firmwares and programs
 
-- UIFlow v1.2.3, v1.3.1beta, v1.3.2, v1.3.5beta, v1.4.0beta (Stack-CN, Stack-EN, Stick, StickC)
-- Faces-Kit-v1.0.0, M5Camera-v1.0.0, M5Camera-QRScan-v1.0.0, Esp32Cam-Nopsram-v1.0.1
+(2019/9/13)
+
+- UIFlow v1.2.3, v1.3.1beta, v1.3.2, v1.3.5beta, v1.4.0beta (M5Stack, M5Stick, M5StickC)
+- Faces-Kit-v1.0.0
+- M5Camera v1.0.0, QRScan-v1.0.0, Esp32Cam-Nopsram v1.0.1
 - Odroid-GO firmware v180728, v181001
 
 (2019/5/17)
