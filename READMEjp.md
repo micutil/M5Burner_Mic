@@ -1,6 +1,6 @@
 # M5Burner_Mic
 [English](README.md)
-### ダウンロード [here](http://micutil.com/download/M5Burner_Mic.zip), マック版とウインドウズ版と両方入っています。
+### ダウンロードは [こちら(2019/9/13)](http://micutil.com/download/M5Burner_Mic.zip), マック版とウインドウズ版と両方入っています。
 <br>
 ![M5Burner_Mic Icon](images/m5burnermic128.png)
 
@@ -9,9 +9,10 @@ M5Burner by Micono<br>
 
 M5Burner_Micは、M5Stackにファームやプログラムを転送するプログラムで、M5Burner（[https://m5stack.com/download](https://m5stack.com/download))と基本的に同じアプリケーションです。 M5Burner_Micアプリケーションと同じ階層にあるfirmwaresフォルダの中に設定ファイルが入っていればプログラムをロードして転送することができます。
 
-## Update
+## 更新
 v1.3.0
-- いくつかのファームを追加. (UIFlow 1.3.2, Odroid-GO firmware....)
+
+- いくつかのファームを追加. (Odroid-GO firmware, UIFlow 1.3.2...)
 
 v1.2.0
 
@@ -21,14 +22,17 @@ v1.2.0
 
 v1.1.0
 
-- Added simple serial monitor function.
-- Bundled some M5Stack related official firmwares.
-- Bundled SetWiFi_Mic
+- シンプルなシリアルモニター機能を追加しました。
+- いくつかのM5Stack関連の公式ファームウェアをバンドルしました。
+- SetWiFi_Micをバンドルしました
 
-## Bundled firmwares and programs (update 2019/9/13)
+## バンドルされてるプログラム
 
-- UIFlow v1.2.3, v1.3.1beta, v1.3.2, v1.3.5beta, v1.4.0beta (Stack-CN, Stack-EN, Stick, StickC)
-- Faces-Kit-v1.0.0, M5Camera-v1.0.0, M5Camera-QRScan-v1.0.0, Esp32Cam-Nopsram-v1.0.1
+(2019/9/13)
+
+- UIFlow v1.2.3, v1.3.1beta, v1.3.2, v1.3.5beta, v1.4.0beta (M5Stack, M5Stick, M5StickC)
+- Faces-Kit-v1.0.0
+- M5Camera v1.0.0, QRScan-v1.0.0, Esp32Cam-Nopsram v1.0.1
 - Odroid-GO firmware v180728, v181001
 
 (2019/5/17)
@@ -41,7 +45,7 @@ v1.1.0
 - Others: my sample program.
 
 
-## Feature
+## 特徴
 
 - M5BurnerのWindows版は、外部のfirmwaresとうフォルダの中にfirmwareが入っていますが、Mac版はパッケージの中に入っているので自作アプリでM5Burner対応にさせるのに面倒であるが、M5Burner_Micは、firmwaresフォルダの中のfirmwareを使うので、firmwaresをマック用とWin用と２つ用意する必要はありません
 - M5BurnerのMac版では、ポートが選べないが、M5Burner_Micは選べます
@@ -52,7 +56,7 @@ v1.1.0
 
 ![Firmwares folder](images/firmwaresfolder.png)
 
-## How to use
+## 使い方
 
 基本的にM5Burnerと同じです
 
@@ -63,30 +67,30 @@ v1.1.0
 
 - firmwaresフォルダの中にある拡張子がjsonのファイルをすべて読み込みます。jsonファイルを複数に分けて作っておくことが可能です）
 
-**(Connect as serial montor)**
+**(シリアルモニターとして接続)**
 
-1. Set baud rate for serial montor.
-2. Push "Connect" button. 
+1. シリアルモニターようの通信速度を設定
+2. "Connect"ボタンをクリックする 
 
 <img src="images/connect.png" width="240">
 
-- If it weree connected, the background color of the bottom field change to pink.
-- If you want to disconnect it, Push "Dissconnect" button, it is as same as "Connect" button.
+- シリアル接続されている場合、下部のフィールドの背景色がピンクに変わります。
+- 接続を解除するには、「Disconnect」ボタンを押します。「Connect」ボタンだった場所のボタンです。
 
 <img src="images/montor.png" width="240">
 
 ### tips
-- You can also use M5Burner_Mic in the official M5Burner **Windows version** folder (see below). However, in the case of Windows version of M5Burner_Mic, it is necessary to put both M5Burner_Mic.exe and M5Burner_Mic Lib folder.<br>(JP: 公式のM5BurnerのWindows版にM5Burner_Micを入れて使うこともできます。)
+- 公式のM5BurnerのWindows版にM5Burner_Micを入れて使うこともできます。
 
 <img src="images/preview.png" width="500">
 
 
-## Licence
+## ライセンス
 
 The M5Burner_Mic app itself is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) Micono (https://github.com/micutil/M5Burner_Mic). You may distribute M5Burner_Mic as an installer for your program in your archive.
 
 
-## Special thanks
+## 謝辞
 
 tobozo           https://github.com/tobozo<br>
 @o_sio (M5Stack) https://m5stack.com
