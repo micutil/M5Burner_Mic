@@ -1,5 +1,5 @@
 # M5Burner_Mic
-[日本語README](READMEjp.MD)
+[日本語README](READMEjp.md)
 ### Download [here](http://micutil.com/download/M5Burner_Mic.zip), both Mac and Win versions are included.<br>
 ![M5Burner_Mic Icon](images/m5burnermic128.png)
 

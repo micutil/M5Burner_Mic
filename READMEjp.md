@@ -1,5 +1,5 @@
 # M5Burner_Mic
-[English](README.MD)
+[English](README.md)
 ### ダウンロード [here](http://micutil.com/download/M5Burner_Mic.zip), マック版とウインドウズ版と両方入っています。
 <br>
 ![M5Burner_Mic Icon](images/m5burnermic128.png)
