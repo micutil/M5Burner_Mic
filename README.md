@@ -9,6 +9,11 @@ M5Burner by Micono<br>
 M5Stack is an application that can basically do the same as M5Burner ([https://m5stack.com/download](https://m5stack.com/download)) that transfers the official firms or program to M5Stack. You can load and transfer firms and programs in the firmwares folder at the same level as the M5Burner_Mic application.
 
 ## Update
+v1.3.1
+
+- Bundled RoVoCoMo2 and RSTester
+- Fixed the prisets of Odroid-GO firmwares
+
 v1.3.0
 
 - Bundled several firmwares. (Odroid-GO firmware, UIFlow 1.3.2...)
@@ -32,7 +37,8 @@ v1.1.0
 - UIFlow v1.2.3, v1.3.1beta, v1.3.2, v1.3.5beta, v1.4.0beta (M5Stack, M5Stick, M5StickC)
 - Faces-Kit-v1.0.0
 - M5Camera v1.0.0, QRScan-v1.0.0, Esp32Cam-Nopsram v1.0.1
-- Odroid-GO firmware v180728, v181001
+- Odroid-GO firmware [v180728](https://wiki.odroid.com/odroid_go/firmware_update_oldfw), [v181001](https://wiki.odroid.com/odroid_go/firmware_update)
+- [RoVoCoMo2](https://github.com/micutil/M5Stack_RoVoCoMo2), [RSTester](https://github.com/micutil/M5Stack_RSTester)
 
 (2019/5/17)
 

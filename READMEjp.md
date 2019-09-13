@@ -10,6 +10,11 @@ M5Burner by Micono<br>
 M5Burner_Micは、M5Stackにファームやプログラムを転送するプログラムで、M5Burner（[https://m5stack.com/download](https://m5stack.com/download))と基本的に同じアプリケーションです。 M5Burner_Micアプリケーションと同じ階層にあるfirmwaresフォルダの中に設定ファイルが入っていればプログラムをロードして転送することができます。
 
 ## 更新
+v1.3.1
+
+- RoVoCoMo2とRSTesterを追加
+- Odroid-GO firmwareのプリセットの不具合を修正
+
 v1.3.0
 
 - いくつかのファームを追加. (Odroid-GO firmware, UIFlow 1.3.2...)
@@ -33,7 +38,8 @@ v1.1.0
 - UIFlow v1.2.3, v1.3.1beta, v1.3.2, v1.3.5beta, v1.4.0beta (M5Stack, M5Stick, M5StickC)
 - Faces-Kit-v1.0.0
 - M5Camera v1.0.0, QRScan-v1.0.0, Esp32Cam-Nopsram v1.0.1
-- Odroid-GO firmware v180728, v181001
+- Odroid-GO firmware [v180728](https://wiki.odroid.com/odroid_go/firmware_update_oldfw), [v181001](https://wiki.odroid.com/odroid_go/firmware_update)
+- [RoVoCoMo2](https://github.com/micutil/M5Stack_RoVoCoMo2), [RSTester](https://github.com/micutil/M5Stack_RSTester)
 
 (2019/5/17)
 
