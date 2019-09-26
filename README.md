@@ -1,6 +1,6 @@
 # M5Burner_Mic
 [日本語README](READMEjp.md)
-### Download [here (2019/9/13)](http://micutil.com/download/M5Burner_Mic.zip), both Mac and Win versions are included.<br>
+### Download [here (2019/9/26)](http://micutil.com/download/M5Burner_Mic.zip), both Mac and Win versions are included.<br>
 ![M5Burner_Mic Icon](images/m5burnermic128.png)
 
 M5Burner by Micono<br>
@@ -9,6 +9,11 @@ M5Burner by Micono<br>
 M5Stack is an application that can basically do the same as M5Burner ([https://m5stack.com/download](https://m5stack.com/download)) that transfers the official firms or program to M5Stack. You can load and transfer firms and programs in the firmwares folder at the same level as the M5Burner_Mic application.
 
 ## Update
+v1.3.2
+
+- Added "4M Default" and "Fire Default" Partition Schemes on some farmwares.
+- Removed some firmwares.
+
 v1.3.1
 
 - Bundled RoVoCoMo2 and RSTester
@@ -57,6 +62,7 @@ v1.1.0
 - M5Burner_Mic reads files with extension .json in the firmwares folder, so you can prepare json files individually.
 - You can use any json file or the folder containing json files by dropping it on the window or the icon of M5Burner_Mic.
 - When you drop a **bin file** into the window or the icon of M5Burner_Mic then, the configuration file for installation **be built into the firmwares folder** and added to the preset menu, so you click the start button You can just install it.
+- If you want to install LovyanLauncher, download and unzip [LovyanLauncher-firmware] (https://github.com/lovyan03/LovyanLauncher-firmware) and place the folder in the firemwares folder in M5Burner_Mic.
 
 ![Firmwares folder](images/firmwaresfolder.png)
 
