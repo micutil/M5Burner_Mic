@@ -68,7 +68,7 @@ v1.1.0
 
 ## How to use
 
-Basically the same as M5Burner.<br>(JP: 基本的にM5Burnerと同じです)
+Basically the same as M5Burner.
 
 1. Connect M5Stack to a computer.
 2. Start M5Burner_Mic, then select port and baud rate.
