@@ -2,12 +2,13 @@
 [English](README.md)
 ### ダウンロードは [こちら(2019/9/26)](http://micutil.com/download/M5Burner_Mic.zip), マック版とウインドウズ版と両方入っています。
 <br>
+
 ![M5Burner_Mic Icon](images/m5burnermic128.png)
 
 M5Burner by Micono<br>
 (Mac and Windows version)
 
-M5Burner_Micは、M5Stackにファームやプログラムを転送するプログラムで、M5Burner（[https://m5stack.com/download](https://m5stack.com/download))と基本的に同じアプリケーションです。 M5Burner_Micアプリケーションと同じ階層にあるfirmwaresフォルダの中に設定ファイルが入っていればプログラムをロードして転送することができます。
+M5Burner_Micは、M5Stack・Odroid-GOなどESP32にファームやプログラムを転送するプログラムで、M5Burner（[https://m5stack.com/download](https://m5stack.com/download))と基本的に同じアプリケーションです。 M5Burner_Micアプリケーションと同じ階層にあるfirmwaresフォルダの中に設定ファイルが入っていればプログラムをロードして転送することができます。
 
 ## 更新
 v1.3.2
