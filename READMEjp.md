@@ -1,6 +1,6 @@
 # M5Burner_Mic
 [English](README.md)
-### ダウンロードは [こちら(2019/9/26)](http://micutil.com/download/M5Burner_Mic.zip), マック版とウインドウズ版と両方入っています。<br>
+### ダウンロードは [こちら(2020/3/22)](http://micutil.com/download/M5Burner_Mic.zip), マック版とウインドウズ版と両方入っています。<br>
 
 ![M5Burner_Mic Icon](images/m5burnermic128.png)
 
@@ -10,7 +10,12 @@ M5Burner by Micono<br>
 M5Burner_Micは、M5Stackにファームやプログラムを転送するプログラムで、M5Burner（[https://m5stack.com/download](https://m5stack.com/download))と基本的に同じアプリケーションです。 M5Burner_Micアプリケーションと同じ階層にあるfirmwaresフォルダの中に設定ファイルが入っていればプログラムをロードして転送することができます。
 
 ## 更新
-v1.3.2
+
+v1.3.2 (2020/3/22)
+
+- いくつかのファームを追加. (RoVoCoMo2 v2.2, UIFlow v1.4.4...)
+
+v1.3.2 (2019/9/26)
 
 - いくつかのファームにおいて、"4M Default"および"Fire Default"のPartition Schemeを追加した
 - いくつかのファームを削除した
@@ -38,6 +43,11 @@ v1.1.0
 - SetWiFi_Micをバンドルしました
 
 ## バンドルされてるプログラム
+
+(2020/3/22)
+
+- UIFlow v1.4.4, v1.4.5, v1.4.5.1 (M5Stack, M5Stick, M5StickC)
+- RoVoCoMo2 (M5Stack, M5Stack fire, Odroid-GO)
 
 (2019/9/13)
 

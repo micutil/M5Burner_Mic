@@ -1,6 +1,6 @@
 # M5Burner_Mic
 [日本語README](READMEjp.md)
-### Download [here (2019/9/26)](http://micutil.com/download/M5Burner_Mic.zip), both Mac and Win versions are included.<br>
+### Download [here (2020/3/22)](http://micutil.com/download/M5Burner_Mic.zip), both Mac and Win versions are included.<br>
 ![M5Burner_Mic Icon](images/m5burnermic128.png)
 
 M5Burner by Micono<br>
@@ -9,7 +9,12 @@ M5Burner by Micono<br>
 M5Stack is an application that can basically do the same as M5Burner ([https://m5stack.com/download](https://m5stack.com/download)) that transfers the official firms or program to M5Stack. You can load and transfer firms and programs in the firmwares folder at the same level as the M5Burner_Mic application.
 
 ## Update
-v1.3.2
+
+v1.3.2 (2020/3/22)
+
+- いくつかのファームを追加. (RoVoCoMo2 v2.2, UIFlow v1.4.4...)
+
+v1.3.2 (2019/9/26)
 
 - Added "4M Default" and "Fire Default" Partition Schemes on some farmwares.
 - Removed some firmwares.
@@ -36,6 +41,11 @@ v1.1.0
 - Bundled SetWiFi_Mic
 
 ## Bundled firmwares and programs
+
+(2020/3/22)
+
+- UIFlow v1.4.4, v1.4.5, v1.4.5.1 (M5Stack, M5Stick, M5StickC)
+- RoVoCoMo2 (M5Stack, M5Stack fire, Odroid-GO)
 
 (2019/9/13)
 
