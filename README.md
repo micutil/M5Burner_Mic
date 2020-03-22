@@ -10,9 +10,14 @@ M5Stack is an application that can basically do the same as M5Burner ([https://m
 
 ## Update
 
+v1.3.3 (2020/3/22)
+
+- Since the firmwares folder cannot be selected automatically on the Mac version, it now displays a selection dialog at startup.
+
+
 v1.3.2 (2020/3/22)
 
-- いくつかのファームを追加. (RoVoCoMo2 v2.2, UIFlow v1.4.4...)
+- Added some farms (RoVoCoMo2 v2.2, UIFlow v1.4.4...)
 
 v1.3.2 (2019/9/26)
 
